@@ -1,6 +1,5 @@
 import React from 'react';
 import { Display } from './components/Display/Display';
-import { Button } from './components/Button/Button';
 import { MemoryContainer } from './containers/MemoryContainer/MemoryContainer';
 
 import {default as bemCssModules} from 'bem-css-modules'
